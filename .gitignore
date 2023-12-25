@@ -2,7 +2,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+credit_score-env
+*.exe
 # C extensions
 *.so
 
